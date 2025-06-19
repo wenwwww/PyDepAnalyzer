@@ -8,7 +8,7 @@
 
 > *"If anyone requires this project name, please notify me—I will rename it immediately."*  
 
----
+
 
 ### Key Specifications:  
 1. Designed specifically for **local dependency analysis** in Python projects.  
